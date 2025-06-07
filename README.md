@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend stuffs(nodejs,mongo)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (gmail-manas5226j@gmail.com)
-- 😄 Pronouns: Manaskumer
+- 😄 Pronouns: Manaskumar
 - ⚡ Fun fact: i love to watch movies & Animes ,building different projects etc...
 
 <!---
